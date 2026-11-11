@@ -18,7 +18,7 @@
                BlueprintIdentifier = "4F4A2C4A30A2155900A2BFDC"
                BuildableName = "HermesEnabler2.app"
                BlueprintName = "HermesEnabler2"
-               ReferencedContainer = "container:HermesEnabler2.xcodeproj">
+               ReferencedContainer = "container:HermesEnabler.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F4A2C4A30A2155900A2BFDC"
             BuildableName = "HermesEnabler2.app"
-            ReferencedContainer = "container:HermesEnabler2.xcodeproj">
+            ReferencedContainer = "container:HermesEnabler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,7 +63,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F4A2C4A30A2155900A2BFDC"
             BuildableName = "HermesEnabler2.app"
-            ReferencedContainer = "container:HermesEnabler2.xcodeproj">
+            ReferencedContainer = "container:HermesEnabler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
